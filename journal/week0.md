@@ -17,7 +17,7 @@ I installed the AWS CLI for Windows 10 via command in **Command Prompt**:
 
 I followed the instructions on the [AWS CLI Install Documentation Page](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
-![Installing AWS CLI](assets/aws_cli_.png)
+![Installing AWS CLI](assets/aws_cli_1.png)
 
 ```
  msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
@@ -32,7 +32,6 @@ Here is a proof of the CLI working environment.
 ![proof of Cloud shell](assets/week%200-cloud-shell.png)
 
 
-```
 
 ### Create a Budget
 
