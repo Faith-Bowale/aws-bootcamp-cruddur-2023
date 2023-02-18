@@ -4,8 +4,8 @@
 
 ### Install and Verify AWS CLI 
 
-I decided to my pc local enviroment.
-i went ahead to try it out on aws cloud shell
+I decided to use my pc local enviroment.
+I went ahead to try it out on aws cloud shell
 
 To prove that I am able to use the AWS CLI.
 The following instructions were what i used followed to carry out the given task to
