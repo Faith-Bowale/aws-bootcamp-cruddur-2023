@@ -62,8 +62,8 @@ I created an IAM user from my root account with the purpose of strictly followin
 
 ![proof of IAM Admin User](assets/IAM-user.png)
 
-I assigned the IAM the role of an administrator,secured with with MFA according to AWS security best practices.
+I assigned the IAM user the role of an administrator,secured with with MFA according to AWS security best practices.
 
 ![proof of IAM security best practice](assets/IAM-security-best-practice%20.png)
 
-
+#THANK YOU!!!
